@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class WordCountMap {
     /**
-     * Receive a string of multiple words.
+     * Receive a string of multiple words..
      * Return a Map object where the key is a word and the value is the count of occurrences of the word.
      *
      * You will need to instantiate a map, use the split(" ") on words, and iterate through the resulting array.
